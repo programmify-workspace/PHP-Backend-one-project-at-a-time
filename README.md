@@ -200,4 +200,4 @@ This tutorial covers the basics of PHP programming language and provides example
 These are some of the essential tools and software you will need to work on the PHP Backend projects.
 
 
-Feel free to modify or enhance these projects based on your specific requirements or add additional functionality as you progress. Good luck with your PHP Backend projects, and happy coding!
+Feel free to ask questions at any given point in time as you progress. Good luck with your PHP Backend projects, and happy coding!
